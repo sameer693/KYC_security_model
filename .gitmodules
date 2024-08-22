@@ -1,0 +1,3 @@
+[submodule "KYC/lib/forge-std"]
+	path = KYC/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
